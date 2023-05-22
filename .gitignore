@@ -1,2 +1,47 @@
-/node_modules
+# OS generated folders/files
+node_modules/
+.DS_Store
+.env
 
+# Log files
+logs/
+*.log
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Configuration files
+config.js
+
+# Development dependencies (e.g., testing tools)
+devDependencies/
+
+# Build output files
+dist/
+build/
+
+# Cache files
+.cache/
+.npm/
+
+# Database backup files
+*.db
+*.sqlite
+
+# Session backup files
+sessions/
+
+# Local environment files
+.env.local
+
+# Generated documentation files
+doc/
+
+# Test coverage result files
+coverage/
