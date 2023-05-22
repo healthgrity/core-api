@@ -15,9 +15,10 @@ logs/
 # Editor-specific files
 .vscode/
 .idea/
+*.iml
 
 # Configuration files
-config.js
+# abi.js
 
 # Development dependencies (e.g., testing tools)
 devDependencies/

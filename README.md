@@ -45,11 +45,11 @@ Avant de démarrer l'API, vous devez déployer le smart contract sur le réseau 
 
 6. Cliquez sur le bouton "Deploy" pour déployer le smart contract sur le réseau de test Mumbai.
 
-7. Une fois le déploiement terminé, copiez l'ABI (Interface du contrat) générée par Remix Ethereum. Vous aurez besoin de cette ABI pour mettre à jour la variable `config.js/contractABI`.
+7. Une fois le déploiement terminé, copiez l'ABI (Interface du contrat) générée par Remix Ethereum. Vous aurez besoin de cette ABI pour mettre à jour la variable `abi.js/contractABI`.
 
 ## Démarrage de l'API
 
-Maintenant que vous avez configuré Metamask, déployé le smart contract et mis à jour l'ABI dans le fichie de configuration `config.js`, vous pouvez démarrer l'API. Suivez ces étapes :
+Maintenant que vous avez configuré Metamask, déployé le smart contract et mis à jour l'ABI dans le fichie de configuration `abi.js`, vous pouvez démarrer l'API. Suivez ces étapes :
 
 1. Ouvrez une fenêtre de terminal.
 
