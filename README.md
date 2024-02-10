@@ -59,7 +59,7 @@ Maintenant que vous avez configuré Metamask, déployé le smart contract et mis
 
 4. Exécutez la commande `npm start` pour démarrer l'API.
 
-5. L'API est maintenant accessible à l'adresse `http://localhost:3001`.
+5. L'API est maintenant accessible à l'adresse `http://localhost:4001`.
 
 ## Interagir avec l'API
 

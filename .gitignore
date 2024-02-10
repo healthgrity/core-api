@@ -18,6 +18,7 @@ logs/
 *.iml
 
 # Configuration files
+# cfg.mainnet.js
 # abi.js
 
 # Development dependencies (e.g., testing tools)
@@ -46,3 +47,6 @@ doc/
 
 # Test coverage result files
 coverage/
+
+# Local Netlify folder
+.netlify
